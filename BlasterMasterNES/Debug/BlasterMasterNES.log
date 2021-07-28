@@ -1,0 +1,72 @@
+﻿  Hero.cpp
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\bullet21.h(15): warning C4005: 'Bullet2_V_DF': macro redefinition
+  c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\bullet2.h(12): note: see previous definition of 'Bullet2_V_DF'
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(135): warning C4129: 's': unrecognized character escape sequence
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(140): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(141): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(142): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(143): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(156): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(160): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(168): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(172): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(176): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(180): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(184): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(188): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(192): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(196): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(200): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(204): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(209): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(213): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(217): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(221): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(225): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(229): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(233): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(237): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(241): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(245): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(251): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(255): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(259): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(263): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(271): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\areaonmap.h(296): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\playscence.h(94): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\playscence.h(95): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(144): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(149): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(154): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(159): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(171): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(172): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(173): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(174): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(175): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(239): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(319): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(365): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(474): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(639): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(675): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(678): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(681): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(715): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(768): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(878): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(886): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(893): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(969): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(975): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(1042): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(1084): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(1095): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(1128): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(1134): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(1139): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(1167): warning C4305: '/=': truncation from 'double' to 'float'
+c:\users\asus\downloads\rinaishihara-master\rinaishihara-master\blastermasternes\hero.cpp(1191): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  BlasterMasterNES.vcxproj -> C:\Users\ASUS\Downloads\RinaIshihara-master\RinaIshihara-master\Debug\BlasterMasterNES.exe

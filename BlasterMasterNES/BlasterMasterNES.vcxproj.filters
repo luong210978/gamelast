@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Hero.cpp" />
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy1.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy2.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy3.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet1.cpp">
+      <Filter>Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Animations.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Car.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Portal.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprites.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Textures.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet3.cpp">
+      <Filter>Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy4.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy5.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Brick.cpp">
+      <Filter>Brick</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Items</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemHp.cpp">
+      <Filter>Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Brick1.cpp">
+      <Filter>Brick</Filter>
+    </ClCompile>
+    <ClCompile Include="Brick2.cpp">
+      <Filter>Brick</Filter>
+    </ClCompile>
+    <ClCompile Include="Stair.cpp">
+      <Filter>Brick</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy6.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy7.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy8.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet2.cpp">
+      <Filter>Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet4.cpp">
+      <Filter>Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy9.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet5.cpp">
+      <Filter>Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="AreaOnMap.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayScence.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="OpeningScene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Credit.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy10.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Block1.cpp">
+      <Filter>Brick</Filter>
+    </ClCompile>
+    <ClCompile Include="RollOutScene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="EndingScene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="SelecteMenu.cpp" />
+    <ClCompile Include="Brick21.cpp">
+      <Filter>Brick</Filter>
+    </ClCompile>
+    <ClCompile Include="OvhAlert.cpp">
+      <Filter>Brick</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet21.cpp">
+      <Filter>Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyBulletmap2.cpp">
+      <Filter>Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy23.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy22.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy21.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="BossArm.cpp">
+      <Filter>Enemy\BOSS</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>Enemy\BOSS</Filter>
+    </ClCompile>
+    <ClCompile Include="Fiework.cpp">
+      <Filter>Enemy\BOSS</Filter>
+    </ClCompile>
+    <ClCompile Include="Vec2.cpp">
+      <Filter>Enemy\BOSS</Filter>
+    </ClCompile>
+    <ClCompile Include="Scence.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Framework\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="tinystr.cpp">
+      <Filter>Framework\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml.cpp">
+      <Filter>Framework\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxmlerror.cpp">
+      <Filter>Framework\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxmlparser.cpp">
+      <Filter>Framework\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet6.cpp">
+      <Filter>Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Item1.cpp">
+      <Filter>Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Item2.cpp">
+      <Filter>Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Item3.cpp">
+      <Filter>Items</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemH.cpp">
+      <Filter>Items</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemBonus.cpp">
+      <Filter>Items</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Hero.h" />
+    <ClInclude Include="Enemy.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy1.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy2.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy3.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet1.h">
+      <Filter>Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet2.h">
+      <Filter>Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet3.h">
+      <Filter>Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Animations.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Car.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyEventHandler.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Portal.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprites.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy4.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy5.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Brick.h">
+      <Filter>Brick</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Items</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemHp.h">
+      <Filter>Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Brick1.h">
+      <Filter>Brick</Filter>
+    </ClInclude>
+    <ClInclude Include="Brick2.h">
+      <Filter>Brick</Filter>
+    </ClInclude>
+    <ClInclude Include="Stair.h">
+      <Filter>Brick</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy6.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy7.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy8.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet4.h">
+      <Filter>Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy9.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet5.h">
+      <Filter>Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="AreaOnMap.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayScence.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="OpeningScene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="EndingScene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Credit.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy10.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Block1.h">
+      <Filter>Brick</Filter>
+    </ClInclude>
+    <ClInclude Include="RollOutScene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SelecteMenu.h" />
+    <ClInclude Include="Brick21.h">
+      <Filter>Brick</Filter>
+    </ClInclude>
+    <ClInclude Include="OvhAlert.h">
+      <Filter>Brick</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet21.h">
+      <Filter>Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyBulletmap2.h">
+      <Filter>Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy23.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy22.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy21.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="BossArm.h">
+      <Filter>Enemy\BOSS</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>Enemy\BOSS</Filter>
+    </ClInclude>
+    <ClInclude Include="Firework.h">
+      <Filter>Enemy\BOSS</Filter>
+    </ClInclude>
+    <ClInclude Include="Vec2.h">
+      <Filter>Enemy\BOSS</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Framework\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="tinystr.h">
+      <Filter>Framework\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml.h">
+      <Filter>Framework\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Scence.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet6.h">
+      <Filter>Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Item1.h">
+      <Filter>Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Item2.h">
+      <Filter>Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Item3.h">
+      <Filter>Items</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemH.h">
+      <Filter>Items</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemBonus.h">
+      <Filter>Items</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Bullet">
+      <UniqueIdentifier>{cbbd4ed2-40db-47c4-a165-345b6c2b7c5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework">
+      <UniqueIdentifier>{961deb47-cd03-44a5-9ab0-14c5d613464e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Brick">
+      <UniqueIdentifier>{7c1ceaca-e571-412b-8ba7-a1e7c08c6911}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Items">
+      <UniqueIdentifier>{f45a8ef7-88b5-4f9a-8fde-fbe2dee32b14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{856ae3d6-6cc8-4620-b3bc-2e83a382f58a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemy">
+      <UniqueIdentifier>{da89b649-a50d-49bb-b602-43158f0d0d98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemy\BOSS">
+      <UniqueIdentifier>{1142a34c-80c9-4a1a-af3e-f2efb2c09c49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework\Sound">
+      <UniqueIdentifier>{ecf018a1-06ca-46fa-bee2-70a598c4b880}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
